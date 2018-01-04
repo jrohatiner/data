@@ -1,0 +1,10 @@
+{
+	"data" : [
+		{ "id": 3, "name":"Acc-303","value":77,"chngPct":0.123,"chngVal":111},
+		{ "id": 4, "name":"Acc-404","value":6,"chngPct":-0.2,"chngVal":2}
+	],
+	"info" : {
+		"records": 8,
+		"next": false
+	}
+}
